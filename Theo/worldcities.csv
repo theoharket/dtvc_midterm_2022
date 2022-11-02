@@ -12347,7 +12347,7 @@ Mékambo,Mekambo,1.0171,13.9333,Gabon,GA,GAB,Ogooué-Ivindo,,3170,1266553682,No
 Omboué,Omboue,-1.5662,9.25,Gabon,GA,GAB,Ogooué-Maritime,,1667,1266708175,No
 Bifoun,Bifoun,-0.3329,10.3832,Gabon,GA,GAB,Moyen-Ogooué,,134,1266655418,No
 Gaza,Gaza,31.5069,34.456,Gaza Strip,XG,XGZ,,primary,,1916116052,No
-Tbilisi,Tbilisi,41.7225,44.7925,Georgia,GE,GEO,Tbilisi,primary,1118035,1268203191,Yes
+Tbilisi,Tbilisi,41.7225,44.7925,Georgia,GE,GEO,Tbilisi,primary,1118035,1268203191,No
 Batumi,Batumi,41.6458,41.6417,Georgia,GE,GEO,Ajaria,admin,154600,1268193611,No
 Kutaisi,Kutaisi,42.25,42.7,Georgia,GE,GEO,Imereti,admin,147900,1268369835,No
 Rustavi,Rustavi,41.5333,45,Georgia,GE,GEO,Kvemo Kartli,admin,128680,1268562807,No
@@ -42904,12 +42904,12 @@ Shamva,Shamva,-17.3196,31.57,Zimbabwe,ZW,ZWE,Mashonaland Central,,10317,17162100
 Chivhu,Chivhu,-19.0196,30.8973,Zimbabwe,ZW,ZWE,Mashonaland East,,10263,1716626042,No
 Plumtree,Plumtree,-20.4869,27.8042,Zimbabwe,ZW,ZWE,Matabeleland South,,2148,1716916272,No
 Mazoe,Mazoe,-17.5196,30.97,Zimbabwe,ZW,ZWE,Mashonaland Central,,9966,1716608716,No
-Burgund,Burgundy,47.6371,4.2121,France,,,,,,,
-Tuscany,Toscana,43.4530,10.9396,Italy,,,,,,,
-Piedmont,Piemonte,45.1240,8.0948,Italy,,,,,,,
-Castilla y Leon,Castilla y Leon,42.0155,-4.6956,Spain,,,,,,,
-Alsace,Alsace,48.3988,7.5830,France,,,,,,,
-Catalonia,Catalonia,41.9980,1.9859,Spain,,,,,,,
-Trentino-Alto Adige,Trentino-Alto Adige,46.4288,11.2635,Italy,,,,,,,
-Rioja,Rioja,36.9463,-2.4658,Spain,,,,,,,
-Sicilia,Sicily,37.74784351,14.30920793,,,,,,,,
+Burgund,Burgundy,47.6371,4.2121,France,FR,FRA,,,,,
+Tuscany,Toscana,43.453,10.9396,Italy,IT,ITA,,,,,
+Piedmont,Piemonte,45.124,8.0948,Italy,IT,ITA,,,,,
+Castilla y Leon,Castilla y Leon,42.0155,-4.6956,Spain,ES,ESP,,,,,
+Alsace,Alsace,48.3988,7.583,France,FR,FRA,,,,,
+Catalonia,Catalonia,41.998,1.9859,Spain,ES,ESP,,,,,
+Trentino-Alto Adige,Trentino-Alto Adige,46.4288,11.2635,Italy,IT,ITA,,,,,
+Rioja,Rioja,36.9463,-2.4658,Spain,ES,ESP,,,,,
+Sicilia,Sicily,37.74784351,14.30920793,Italy,IT,ITA,,,,,
